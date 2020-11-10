@@ -9,6 +9,7 @@ El cliente debe saber la ip del servidor para transmitir.
 # AES
 
 Esta basado en permutaciones y transformaciones lineales, ejecutadas varias veces en bloques de datos de 16 bytes.
+Un cambio en un bit , ya sea en la clave o en el mensaje resulta en un bloque de texto cifrado diferente.
 
 ![aes](media/aes.png)
 
@@ -26,7 +27,7 @@ y que es utilizado por la clase de cliente:
 
 ![cliente](media/cliente.PNG)
 
-# Uso 
+# Uso
 
 Debemos iniciar el proyecto de servidor , dar click en start e iniciar los de clientes y conectar. (Se puede utilizar localhost) Click en conectar y ya se podrá utilizar el chat.
 
