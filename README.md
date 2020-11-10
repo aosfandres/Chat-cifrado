@@ -1,5 +1,11 @@
 # Chat-cifrado
 
+##Integrantes:
+* Andres Sotelo
+* Johan Rueda
+* Eduardo Arias
+* Juan Herrera
+
 El chat esta hecho en Java Netbeans con Sockets.
 
 Al ser un socket es un medio de transmisión bidireccional orientado a respuestas rápidas.
