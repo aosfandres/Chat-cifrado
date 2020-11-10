@@ -6,6 +6,11 @@ Al ser un socket es un medio de transmisión bidireccional orientado a respuesta
 
 El cliente debe saber la ip del servidor para transmitir.
 
+![ClienteServer](media/ClienteServer.jpg)
+
+* El programa servidor lo que hace es comenzar a "Escuchar" en un puerto determinado que especificaremos 
+* El programa Cliente debe conocer la ip o el nombre del dominio  del sevidor para poder solicitar la conexion con este y poder empezar el chat 
+
 # AES
 
 Esta basado en permutaciones y transformaciones lineales, ejecutadas varias veces en bloques de datos de 16 bytes.
