@@ -43,3 +43,5 @@ y que es utilizado por la clase de cliente:
 Debemos iniciar el proyecto de servidor , dar click en start e iniciar los de clientes y conectar. (Se puede utilizar localhost) Click en conectar y ya se podrá utilizar el chat.
 
 ![app](media/app.PNG)
+
+# https://github.com/TheWorstOne/CryptoChat
