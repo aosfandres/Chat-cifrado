@@ -1,6 +1,6 @@
 # Chat-cifrado
 
-##Integrantes:
+## Integrantes:
 * Andres Sotelo
 * Johan Rueda
 * Eduardo Arias
