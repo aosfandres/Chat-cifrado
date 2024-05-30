@@ -1,0 +1,16 @@
+{
+  "version": "2.2.0",
+  "summary": {
+    "title": "TEST MODEL",
+    "owner": "Johan",
+    "description": "Test diagram",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [],
+    "diagramTop": 2,
+    "reviewer": "Johan",
+    "threatTop": 0
+  }
+}
